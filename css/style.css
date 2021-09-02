@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Oswald";
-    src: url("css/fonts/oswald/Oswald-Regular.ttf");
+    src: url("fonts/oswald/Oswald-Regular.ttf");
     font-weight: 500;
 }
 
 @font-face {
     font-family: "Oswald-Light";
-    src: url("css/fonts/oswald/Oswald-Light.ttf");
+    src: url("fonts/oswald/Oswald-Light.ttf");
     font-weight: 900;
 }
 
